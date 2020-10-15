@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>fibonacci</title>
+
+</head>
+<body>
+<button onclick="fibonacci()">show fibonacci</button>
+<script>
+    function fibonacci() {
+        let n = +prompt("Input a number");
+        let a = 0;
+        let b = 1;
+        let count = 2;
+        let str = a + ',' + b + ',';
+
+        while (count < n){
+            let temp = a + b;
+            str += temp+',';
+            a = b;
+            b = temp;
+            count++;
+        }
+        str = str.substring(2,str.length-1);
+        document.write(str);
+    }
+
+</script>
+
+</body>
+</html>
