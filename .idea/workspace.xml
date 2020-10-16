@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bb1308c-b3ab-4ec6-a507-a3355c58c694" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/duan1/MyForm.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Js/bangcuuchuong.html" beforeDir="false" afterPath="$PROJECT_DIR$/Js/bangcuuchuong.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/caro.html" beforeDir="false" afterPath="$PROJECT_DIR$/caro.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/duan1/Array.html" beforeDir="false" afterPath="$PROJECT_DIR$/duan1/Array.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +56,7 @@
       <workItem from="1602730593461" duration="483000" />
       <workItem from="1602731094456" duration="144000" />
       <workItem from="1602731292168" duration="301000" />
-      <workItem from="1602732256709" duration="2702000" />
+      <workItem from="1602732256709" duration="10377000" />
     </task>
     <task id="LOCAL-00001" summary="-add">
       <created>1602730371419</created>
@@ -88,6 +90,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="-add" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="274" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602755699986">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="274" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1602755699986" />
     <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1602730648561">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -112,5 +118,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="452" y="225" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602730853356" />
+    <state x="650" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1602759371822">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="650" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1602759371822" />
   </component>
 </project>
