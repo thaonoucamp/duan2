@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bb1308c-b3ab-4ec6-a507-a3355c58c694" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/baitap.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Js/bangcuuchuong.html" beforeDir="false" afterPath="$PROJECT_DIR$/Js/bangcuuchuong.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/caro.html" beforeDir="false" afterPath="$PROJECT_DIR$/caro.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/duan1/Array.html" beforeDir="false" afterPath="$PROJECT_DIR$/duan1/Array.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hamjs.html" beforeDir="false" afterPath="$PROJECT_DIR$/hamjs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hamjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/hamjs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiente.html" beforeDir="false" afterPath="$PROJECT_DIR$/tiente.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -43,6 +45,24 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RunManager" selected="Node.js.baitap.js">
+    <configuration name="tiente.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/thao/tiente.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="baitap.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/baitap.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="hamjs.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/hamjs.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.baitap.js" />
+        <item itemvalue="JavaScript Debug.tiente.html" />
+        <item itemvalue="Node.js.hamjs.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -56,7 +76,9 @@
       <workItem from="1602730593461" duration="483000" />
       <workItem from="1602731094456" duration="144000" />
       <workItem from="1602731292168" duration="301000" />
-      <workItem from="1602732256709" duration="10377000" />
+      <workItem from="1602732256709" duration="11440000" />
+      <workItem from="1602812865775" duration="13080000" />
+      <workItem from="1602987490164" duration="1308000" />
     </task>
     <task id="LOCAL-00001" summary="-add">
       <created>1602730371419</created>
@@ -106,6 +128,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602730080061" />
+    <state width="659" height="179" key="GridCell.Tab.0.bottom" timestamp="1602989035097">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="659" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602989035097" />
+    <state width="659" height="179" key="GridCell.Tab.0.center" timestamp="1602989035097">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="659" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602989035097" />
+    <state width="659" height="179" key="GridCell.Tab.0.left" timestamp="1602989035097">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="659" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602989035097" />
+    <state width="659" height="179" key="GridCell.Tab.0.right" timestamp="1602989035097">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="659" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602989035097" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1602731232271">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
