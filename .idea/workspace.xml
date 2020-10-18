@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bb1308c-b3ab-4ec6-a507-a3355c58c694" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/baitap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hamjs.html" beforeDir="false" afterPath="$PROJECT_DIR$/hamjs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hamjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/hamjs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiente.html" beforeDir="false" afterPath="$PROJECT_DIR$/tiente.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onmouse.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +41,10 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.baitap.js">
+  <component name="RunManager" selected="JavaScript Debug.onmouse.html">
+    <configuration name="onmouse.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/thao/onmouse.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="tiente.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/thao/tiente.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -57,6 +56,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.onmouse.html" />
         <item itemvalue="Node.js.baitap.js" />
         <item itemvalue="JavaScript Debug.tiente.html" />
         <item itemvalue="Node.js.hamjs.js" />
@@ -78,7 +78,7 @@
       <workItem from="1602731292168" duration="301000" />
       <workItem from="1602732256709" duration="11440000" />
       <workItem from="1602812865775" duration="13080000" />
-      <workItem from="1602987490164" duration="1308000" />
+      <workItem from="1602987490164" duration="1708000" />
     </task>
     <task id="LOCAL-00001" summary="-add">
       <created>1602730371419</created>
