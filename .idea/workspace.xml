@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bb1308c-b3ab-4ec6-a507-a3355c58c694" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tudien.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/songuyento.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bmi.html" beforeDir="false" afterPath="$PROJECT_DIR$/bmi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cheap-good.html" beforeDir="false" afterPath="$PROJECT_DIR$/cheap-good.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/do-while.html" beforeDir="false" afterPath="$PROJECT_DIR$/do-while.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fizul.html" beforeDir="false" afterPath="$PROJECT_DIR$/fizul.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/for.html" beforeDir="false" afterPath="$PROJECT_DIR$/for.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mouseEvent.html" beforeDir="false" afterPath="$PROJECT_DIR$/mouseEvent.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nobita.html" beforeDir="false" afterPath="$PROJECT_DIR$/nobita.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toantu.html" beforeDir="false" afterPath="$PROJECT_DIR$/toantu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/while.html" beforeDir="false" afterPath="$PROJECT_DIR$/while.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +79,7 @@
       <workItem from="1602731292168" duration="301000" />
       <workItem from="1602732256709" duration="11440000" />
       <workItem from="1602812865775" duration="13080000" />
-      <workItem from="1602987490164" duration="6319000" />
+      <workItem from="1602987490164" duration="7625000" />
     </task>
     <task id="LOCAL-00001" summary="-add">
       <created>1602730371419</created>
